@@ -3,24 +3,22 @@
  * Computer Science Department
  * University of Crete
  * 
- * Date: 2017/10/30
+ * Date: 2023/02/06
  * Author: CS220 Instructors
  * Filename: vga_maze_top.v
  * Description: The top module that instantiates vga_sync and vga_frame etc
  *
  ******************************************************************************/
 
-`timescale 1ns/1ps
-
 module vga_maze_top(
-  input clk,
-  input rst,
+  input  logic clk,
+  input  logic rst,
 
-  input  i_control,
-  input  i_up,
-  input  i_down,
-  input  i_left,
-  input  i_right,
+  input  logic i_control,
+  input  logic i_up,
+  input  logic i_down,
+  input  logic i_left,
+  input  logic i_right,
   output logic [7:0] o_leds,
 
   output logic o_hsync,

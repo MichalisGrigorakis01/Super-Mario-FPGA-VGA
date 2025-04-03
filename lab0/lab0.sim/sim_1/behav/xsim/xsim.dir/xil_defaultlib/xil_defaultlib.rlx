@@ -1,0 +1,8 @@
+0.7
+2020.2
+Oct 14 2022
+05:20:55
+C:/Users/grigo/Downloads/lab0_code/lab0_code/counter.sv,1679235075,systemVerilog,,C:/Users/grigo/Downloads/lab0_code/lab0_code/lab0_top.sv,,counter,,uvm,,,,,,
+C:/Users/grigo/Downloads/lab0_code/lab0_code/lab0_tb.sv,1679507334,systemVerilog,,,,lab0_tb,,uvm,,,,,,
+C:/Users/grigo/Downloads/lab0_code/lab0_code/lab0_top.sv,1679235129,systemVerilog,,C:/Users/grigo/Downloads/lab0_code/lab0_code/lab0_tb.sv,,lab0_top,,uvm,,,,,,
+C:/Users/grigo/lab0/lab0.sim/sim_1/behav/xsim/glbl.v,1665704903,verilog,,,,glbl,,uvm,,,,,,
